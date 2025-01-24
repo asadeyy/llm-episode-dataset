@@ -1,0 +1,396 @@
+When: 高校生の時, Where: 図書館, Who: 私, What: 好きな作家と同じ名前の人に出会った, Why: 該当なし, How: 該当なし
+
+When: 大学時代, Where: 留学先のホームステイ先, Who: 私とホストファミリー, What: 文化の違いで気まずくなった, Why: ジェスチャーを誤解された, How: 後で説明して誤解を解いた
+
+When: アルバイト面接の時, Where: 待合室, Who: 私, What: 緊張で吐きそうになった, Why: 重要な面接だったから, How: 深呼吸を繰り返した
+
+When: 初ボーナス, Where: デパート, Who: 私, What: 欲しかったバッグを買った, Why: 自分へのご褒美, How: 該当なし
+
+When: 友達の誕生日パーティー, Where: カラオケボックス, Who: 私達, What: 騒ぎすぎて店員に注意された, Why: 興奮しすぎた, How: 該当なし
+
+When: 台風の夜, Where: 自宅, Who: 私, What: 停電で怖い思いをした, Why: 台風の影響, How: 懐中電灯で過ごした
+
+When: 高校生時代, Where: 塾, Who: 私, What: 居眠りして先生に怒られた, Why: 寝不足だった, How: 該当なし
+
+When: 通勤途中, Where: 電車内, Who: 私, What: 吊革につかまろうとして、知らない人の手に触れてしまった, Why: 電車が揺れたから, How: 該当なし
+
+When: 一人暮らしを始めたばかりの時, Where: スーパー, Who: 私, What: 食材を買いすぎて冷蔵庫に入りきらなかった, Why: 料理初心者で量の加減が分からなかった, How: 該当なし
+
+When: 職場の送別会, Where: レストラン, Who: 私達, What: サプライズで上司にプレゼントを渡した, Why: 上司の転勤, How: みんなでカンパしてプレゼントを買った
+
+When: 初めて犬を散歩に連れて行った時, Where: 公園, Who: 私と犬, What: 犬がリードを振り切って逃げてしまった, Why: リードをしっかり持っていなかった, How: 必死に追いかけて捕まえた
+
+When: 大学の卒業論文提出前日, Where: パソコンの前, Who: 私, What: ファイルが消えてパニックになった, Why: 保存し忘れていた, How: 諦めて徹夜で書き直した
+
+When: 子供時代, Where: 海水浴場, Who: 私, What: 波に遊ばれて溺れかけた, Why: 海の流れが速かった, How: ライフセーバーに助けられた
+
+When: 海外旅行中, Where: レストラン, Who: 私, What: メニューが読めずに困った, Why: 現地の言葉が分からなかった, How: ジェスチャーで注文した
+
+When: ある日, Where: バス停, Who: 私, What: バスに乗り遅れた, Why: 時間がギリギリだった, How: 該当なし
+
+When: 仕事で大きなミスをした時, Where: 自分のデスク, Who: 私, What: 落ち込んで泣いてしまった, Why: ミスが大きな損失につながったため, How: 該当なし
+
+When: 小学校の遠足, Where: 山, Who: 私と友達, What: はぐれて迷子になった, Why: 友達と違う道に進んでしまったから, How: 先生に電話で助けを求めた
+
+When: 受験勉強中, Where: 自室, Who: 私, What: モチベーションが上がらず、現実逃避でゲームをしてしまった, Why: 勉強に疲れた, How: 該当なし
+
+When: 旅行中, Where: 空港, Who: 私, What: 預け入れ荷物が紛失した, Why: 該当なし, How: 航空会社に問い合わせた
+
+When: 中学校の体育祭, Where: グラウンド, Who: 私, What: 徒競走で最下位になった, Why: 運動が苦手, How: 該当なし
+
+When: 兄の結婚式, Where: 結婚式場, Who: 私, What: 感動して泣いてしまった, Why: 兄の結婚が嬉しかったから, How: 該当なし
+
+When: 初めての海外旅行, Where: 現地の市場, Who: 私, What: ぼったくられた, Why: 現地の相場を知らなかった, How: 仕方なくお金を払った
+
+When: 高校の演劇部, Where: 学校の舞台, Who: 私達, What: 演劇の本番で大失敗した, Why: 緊張しすぎてセリフを忘れてしまった, How: アドリブで何とか乗り切った
+
+When: 寒い日, Where: 自宅, Who: 私, What: 温かいココアを飲んだ, Why: 寒かったから, How: 該当なし
+
+When: 満員電車, Where: 電車内, Who: 私, What: 貧血で倒れそうになった, Why: 空気が薄かった, How: 近くの席に座らせてもらった
+
+When: 料理教室, Where: 料理教室, Who: 私, What: 包丁で指を切ってしまった, Why: 不注意だった, How: 該当なし
+
+When: 友人とのキャンプ, Where: キャンプ場, Who: 私と友人, What: テントの設営に失敗した, Why: 説明書をよく読まなかったから, How: 結局、友人達に手伝ってもらった
+
+When: 大学の図書館, Where: 図書館, Who: 私, What: 必要な本が見つからなかった, Why: 貸出中だった, How: 司書に相談した
+
+When: 祖母の家, Where: 祖母の家の庭, Who: 私と祖母, What: 祖母と一緒に花壇の手入れをした, Why: 祖母が手伝ってほしいと頼んだため, How: 該当なし
+
+When: 運転免許更新, Where: 警察署, Who: 私, What: 講習で居眠りをしてしまった, Why: 寝不足だった, How: 該当なし
+
+When: 友人とカラオケ, Where: カラオケボックス, Who: 私と友人, What: 好きな歌を熱唱した, Why: ストレス発散したかった, How: 該当なし
+
+When: 子供の頃, Where: 遊園地, Who: 私と両親, What: ジェットコースターに乗って楽しかった, Why: 該当なし, How: 該当なし
+
+When: 社会人2年目, Where: 会議室, Who: 私, What: 重要な会議で発言を求められ、言葉に詰まった, Why: 緊張と準備不足, How: 隣席の先輩がフォローしてくれた
+
+When: 実家から戻る時, Where: 駅, Who: 私, What: 電車に乗り遅れた, Why: 実家でのんびりしすぎた, How: 該当なし
+
+When: 旅行中, Where: 博物館, Who: 私, What: 展示物に夢中になりすぎて、同行者と逸れた, Why: 展示物が面白かったから, How: 館内放送で呼び出してもらった
+
+When: 初めてのボーナスをもらった時, Where: 家電量販店, Who: 私, What: 最新のゲーム機を買った, Why: ずっと欲しかったから, How: 該当なし
+
+When: 高校時代, Where: 図書館, Who: 私, What: 勉強中に寝てしまった, Why: 徹夜明けだった, How: 該当なし
+
+When: ある日, Where: バス停, Who: 私, What: 財布を落としたことに気づいた, Why: 該当なし, How: バス会社に問い合わせた
+
+When: 友人と遊園地に行った時, Where: 遊園地, Who: 私, What: お化け屋敷で泣き叫んでしまった, Why: 怖すぎた, How: 該当なし
+
+When: 仕事でミスをした時, Where: 自宅, Who: 私, What: ミスのことを思い出して落ち込んだ, Why: ミスが大きかったから, How: 該当なし
+
+When: 学生時代, Where: 該当なし, Who: 私, What: 好きな人に彼女ができたことを知った, Why: 該当なし, How: 該当なし
+
+When: 初めての海外, Where: 空港, Who: 私, What: 荷物検査で止められた, Why: カバンの中に果物ナイフが入っていた, How: 果物ナイフを没収された
+
+When: 友人の家, Where: 友人の家, Who: 私, What: 酔っ払って寝てしまった, Why: お酒を飲みすぎた, How: 該当なし
+
+When: 誕生日, Where: 自宅, Who: 私, What: サプライズで友人が家に来た, Why: 誕生日を祝うため, How: 該当なし
+
+When: 仕事帰り, Where: スーパー, Who: 私, What: 半額弁当をゲットした, Why: 夕方だったから, How: 該当なし
+
+When: ある日, Where: 街中, Who: 私, What: 宝くじを買った, Why: 当たったらいいなと思ったから, How: 該当なし
+
+When: 夜遅くまで勉強していた時, Where: 図書館, Who: 私, What: 閉館時間を過ぎてしまい、職員に注意された, Why: 勉強に集中しすぎて時間感覚を失った, How: 謝罪してすぐに退館した
+
+When: 友人と海に行った時, Where: 海の家, Who: 私, What: 海の家でかき氷を食べた, Why: 暑かったから, How: 該当なし
+
+When: 大学の卒業式の日, Where: 該当なし, Who: 私, What: 卒業論文が優秀賞に選ばれた, Why: 頑張ったから, How: 該当なし
+
+When: 初めての登山, Where: 山頂, Who: 私, What: 素晴らしい景色に感動した, Why: 景色がきれいだったから, How: 該当なし
+
+When: 友人の結婚式, Where: 披露宴会場, Who: 私, What: 新郎新婦へのサプライズビデオ制作に参加した, Why: 友人を驚かせたかったから, How: 他の友人と協力してビデオを制作した
+
+When: 大雨の日, Where: 家, Who: 私, What: 雨漏りに気づいた, Why: 家が古いため, How: バケツを置いて対処した
+
+When: 初めて飛行機に乗ったとき, Where: 飛行機内, Who: 私, What: 機内食が美味しかった, Why: 該当なし, How: 該当なし
+
+When: 友人と花火大会に行った時, Where: 河原, Who: 私と友人, What: 場所取りに成功した, Why: 早くから場所取りに行ったから, How: 該当なし
+
+When: 引っ越しの時, Where: 新居, Who: 私, What: 新しい家具を組み立てた, Why: 引っ越しのため, How: 説明書を見ながら組み立てた
+
+When: 仕事で徹夜が続いたある日, Where: オフィス, Who: 私, What: ついに仕事を終え、達成感を感じた, Why: 長期プロジェクトが完了したから, How: 該当なし
+
+When: 初めての給料日, Where: 自分, Who: 私, What: 貯金口座を開設した, Why: 貯金を始めようと思ったから, How: 該当なし
+
+When: 電車内, Where: 電車内, Who: 私, What: 好きなアーティストの曲が流れてきた, Why: 該当なし, How: 該当なし
+
+When: 友人とカラオケに行った時, Where: カラオケ, Who: 私, What: 音痴を克服しようと練習した, Why: 上手になりたかったから, How: 友人からアドバイスをもらった
+
+When: 中学の体育祭, Where: 校庭, Who: 私と友達, What: 応援合戦で優勝した, Why: みんなで頑張ったから, How: 該当なし
+
+When: 子供の頃, Where: 公園, Who: 私と友達, What: 木登りをして遊んだ, Why: 該当なし, How: 該当なし
+
+When: 飲食店で働いていた時, Where: キッチン, Who: 私, What: 新しいメニューの開発を手伝った, Why: 店長に頼まれたから, How: 他のスタッフと協力してメニューを考案した
+
+When: 旅行先のホテル, Where: ホテルのロビー, Who: 私, What: 無料のコーヒーを飲んだ, Why: コーヒーが好きだから, How: 該当なし
+
+When: 台風の日, Where: 家, Who: 私, What: 停電した, Why: 台風の影響, How: ろうそくで過ごした
+
+When: 仕事のプレゼン, Where: 会議室, Who: 私, What: プレゼンを成功させた, Why: 入念に準備したから, How: 落ち着いて発表した
+
+When: 友人と食べ放題に行った時, Where: レストラン, Who: 私, What: 元を取ろうと頑張った, Why: 食べ放題料金を払ったから, How: 該当なし
+
+When: 修学旅行の夜, Where: ホテルの部屋, Who: 私とルームメイト, What: 恋バナで盛り上がった, Why: 該当なし, How: 該当なし
+
+When: 初めてのバーベキュー, Where: 川辺, Who: 私と友人たち, What: 水遊びをして楽しんだ, Why: 天気が良かったから, How: 該当なし
+
+When: スーパーマーケット, Where: スーパーマーケット, Who: 私, What: レジでエコバッグを忘れたことに気づいた, Why: 該当なし, How: 別料金で袋を購入した
+
+When: 久しぶりに実家に帰った時, Where: 実家, Who: 私と父, What: 父と将棋を指した, Why: 該当なし, How: 父が教えてくれた
+
+When: 昼休み, Where: 公園, Who: 私, What: 鳩にパンをあげた, Why: 鳩が近くに寄ってきたため, How: 該当なし
+
+When: 学生時代, Where: 大学の図書館, Who: 私, What: 借りようと思っていた本が貸出中だった, Why: 人気のある本だったため, How: 該当なし
+
+When: 満員電車, Where: 満員電車, Who: 私, What: 気分が悪くなった, Why: 人混みが苦手だから, How: 近くの駅で降りて休憩した
+
+When: 友人の家, Where: 友人の家, Who: 私と友人, What: 友人のゲームで高得点を出した, Why: 該当なし, How: 該当なし
+
+When: 子供の頃, Where: 駄菓子屋, Who: 私, What: 100円を落とした, Why: 該当なし, How: 該当なし
+
+When: 仕事で大きなミスをした時, Where: 職場, Who: 私, What: ミスを隠そうとして余計に事態が悪化した, Why: 怒られるのが怖かったため, How: 該当なし
+
+When: 朝, Where: 家, Who: 私, What: 目覚まし時計が鳴らなかった, Why: 電池が切れていたため, How: 該当なし
+
+When: 冬, Where: 家, Who: 私, What: ストーブをつけたら停電した, Why: ブレーカーが落ちたため, How: 該当なし
+
+When: 友人とドライブ中, Where: 車内, Who: 私と友人, What: 大好きな曲がラジオから流れてきた, Why: 該当なし, How: 該当なし
+
+When: 海外旅行中, Where: 海外のホテル, Who: 私, What: シャワーのお湯が出なかった, Why: ホテルの設備の故障, How: ホテルのフロントに電話で伝えた
+
+When: 子供の頃, Where: 家, Who: 私, What: 隠れてお菓子を食べようとして見つかった, Why: 隠れるのが下手だったため, How: 該当なし
+
+When: 仕事帰り, Where: 駅, Who: 私, What: 忘れ物に気づいて職場に戻った, Why: 重要な書類を忘れていたため, How: 該当なし
+
+When: 電車内, Where: 電車内, Who: 私, What: 読書に夢中になって降りる駅を間違えた, Why: 本がおもしろかったから, How: ひとつ先の駅で降りて戻った
+
+When: 初めてスキーに行った時, Where: スキー場, Who: 私, What: スキーを履いたまま転んで動けなくなった, Why: バランスを崩したため, How: パトロール隊に助けられた
+
+When: 友人と待ち合わせをしていた時, Where: 喫茶店, Who: 私, What: 時間を間違えて早く着きすぎてしまった, Why: 勘違いしていたため, How: 喫茶店で時間を潰した
+
+When: 一人旅をしたとき, Where: 旅先のゲストハウス, Who: 私, What: 他の旅行者と仲良くなった, Why: 該当なし, How: 該当なし
+
+When: ある日, Where: 家, Who: 私, What: 突然の停電で冷蔵庫の中のものが腐ってしまった, Why: 停電が長時間続いたため, How: 該当なし
+
+When: 試験勉強中, Where: 自室, Who: 私, What: 集中力が途切れて、つい漫画を読んでしまった, Why: 疲れていたため, How: 該当なし
+
+When: 旅行先, Where: 観光地, Who: 私, What: 珍しいお土産を見つけた, Why: 該当なし, How: 該当なし
+
+When: 料理中, Where: 台所, Who: 私, What: 卵を割ったら双子だった, Why: 該当なし, How: 該当なし
+
+When: ある日, Where: 公園, Who: 私, What: 四つ葉のクローバーを見つけた, Why: 該当なし, How: 該当なし
+
+When: 高校の卒業式, Where: 教室, Who: 私と友人, What: 卒業アルバムにメッセージを書き合った, Why: 思い出を残したかったため, How: 該当なし
+
+When: 子供の頃, Where: 祖父母の家, Who: 私と祖父, What: 祖父に昔話を聞かせてもらった, Why: 該当なし, How: 該当なし
+
+When: 電車内, Where: 電車内, Who: 私, What: 吊り革が切れた, Why: 老朽化していたため, How: 該当なし
+
+When: 映画館, Where: 映画館, Who: 私, What: 映画の途中でトイレに行きたくなった, Why: 映画が始まる前に水分を取りすぎたため, How: 該当なし
+
+When: 友人の誕生日, Where: レストラン, Who: 私と友人達, What: 友人にサプライズで誕生日ケーキを用意した, Why: 友人の誕生日を祝うため, How: 該当なし
+
+When: 小学生の時, Where: 学校, Who: 私と友達, What: 友達と喧嘩した, Why: 些細なことがきっかけ, How: 該当なし
+
+When: 雨上がり, Where: 庭, Who: 私, What: カタツムリを見つけた, Why: 該当なし, How: 該当なし
+
+When: 小学生の時, Where: 学校, Who: 私, What: ドッジボールで活躍した, Why: 普段運動しないが、たまたまうまくいった, How: 該当なし
+
+When: 初めてのバイト, Where: バイト先, Who: 私, What: 仕事を覚えるのに苦労した, Why: 初めてのアルバイトだったため, How: 先輩に教えてもらった
+
+When: 夜中, Where: 家, Who: 私, What: 金縛りにあった, Why: 疲れが溜まっていたため, How: 該当なし
+
+When: 旅行中, Where: ホテル, Who: 私, What: 寝坊して朝食を食べ損ねた, Why: 疲れていて起きられなかったため, How: 該当なし
+
+When: カフェ, Where: カフェ, Who: 私, What: 隣の席の人の話が聞こえてきて面白かった, Why: 該当なし, How: 該当なし
+
+When: 高校の授業中, Where: 教室, Who: 私, What: 教科書を忘れて先生に怒られた, Why: 忘れ物をしてしまったため, How: 該当なし
+
+When: 出かける前, Where: 家, Who: 私, What: 寝癖に気づかずに出かけてしまった, Why: 鏡を見なかったため, How: 該当なし
+
+When: 映画館, Where: 映画館, Who: 私, What: ポップコーンを全部食べてしまった, Why: 映画がおもしろかったから, How: 該当なし
+
+When: 運動会, Where: 運動会会場, Who: 私, What: 玉入れで玉が顔に当たった, Why: 避けきれなかったため, How: 該当なし
+
+When: 昼休み, Where: 食堂, Who: 私, What: カレーうどんをこぼしてしまった, Why: 不注意だったため, How: 該当なし
+
+When: 道に迷った時, Where: 住宅街, Who: 私と犬, What: 犬に吠えられた, Why: 犬が警戒していたため, How: 該当なし
+
+When: 友人と遊んでいた時, Where: 公園, Who: 私と友人, What: シャボン玉で遊んだ, Why: 該当なし, How: 該当なし
+
+When: 新しい靴を履いた日, Where: 駅, Who: 私, What: ヒールのゴムが取れた, Why: ヒールが古くなっていたため, How: 該当なし
+
+When: 修学旅行の夜, Where: 部屋, Who: 私と友達, What: 怖い話で盛り上がった, Why: 該当なし, How: 該当なし
+
+When: 仕事中, Where: オフィス, Who: 私, What: マウスの電池が切れた, Why: 電池を交換していなかったため, How: 予備の電池と交換した
+
+When: 公園, Where: 公園, Who: 私と子供, What: 子供が鳩を追いかけていた, Why: 鳩が怖かったため, How: 該当なし
+
+When: 電車内, Where: 電車内, Who: 私, What: 吊り革が外れて頭に当たった, Why: 吊り革が老朽化していたため, How: 該当なし
+
+When: 美術展, Where: 美術館, Who: 私, What: 作品の解説を読んで感銘を受けた, Why: 解説が分かりやすかったため, How: 該当なし
+
+When: 試験前日, Where: 自宅, Who: 私, What: 緊張で腹痛になった, Why: 試験が不安だったため, How: 該当なし
+
+When: カフェ, Where: カフェ, Who: 私, What: ホットコーヒーを頼んだらぬるかった, Why: 店員が淹れるのを失敗したため, How: 該当なし
+
+When: 小さい頃, Where: 公園, Who: 私, What: ブランコから落ちて腕を骨折した, Why: 勢いよくブランコを漕ぎすぎたため, How: 該当なし
+
+When: 友人との食事会, Where: レストラン, Who: 私と友人と昔のクラスメート, What: 昔のクラスメートが結婚すると聞いた, Why: 該当なし, How: 該当なし
+
+When: オフィスビル, Where: エレベーター, Who: 私, What: エレベーターに閉じ込められた, Why: エレベーターが故障したため, How: 緊急ボタンを押した
+
+When: 旅行先のホテル, Where: ホテルの部屋, Who: 私, What: 窓から綺麗な景色が見えた, Why: ホテルが高層階にあったため, How: 該当なし
+
+When: 猫カフェ, Where: 猫カフェ, Who: 私, What: 猫アレルギーが出てしまった, Why: 猫アレルギー体質のため, How: 薬を飲んだ
+
+When: 料理中, Where: 台所, Who: 私, What: 玉ねぎを切っていて涙が止まらなくなった, Why: 玉ねぎの成分が目に染みたため, How: 該当なし
+
+When: 満員電車, Where: 満員電車, Who: 私, What: リュックのチャックが開いていたことに気づいた, Why: 閉め忘れていたため, How: 該当なし
+
+When: 駅, Where: 道端, Who: 私, What: 100円玉を拾った, Why: 該当なし, How: 該当なし
+
+When: バス停, Where: バス停, Who: 私, What: バスに間に合った, Why: 全力で走ったため, How: 該当なし
+
+When: 家, Where: 家, Who: 私と家族, What: 家族とテレビ番組の話で盛り上がった, Why: 面白い番組だったため, How: 該当なし
+
+When: 夜中, Where: コンビニ, Who: 私, What: 新発売のお菓子を見つけた, Why: 該当なし, How: 該当なし
+
+When: おしゃれなカフェ, Where: おしゃれなカフェ, Who: 私, What: メニューが多すぎて選べなかった, Why: 全部美味しそうだったため, How: 店員にオススメを聞いた
+
+When: 家, Where: 家, Who: 私, What: 二度寝して遅刻しそうになった, Why: 眠かったため, How: 該当なし
+
+When: エレベーター, Where: エレベーター, Who: 私と知らない人, What: 気まずい沈黙が流れた, Why: 狭い空間だったため, How: 該当なし
+
+When: 友人の家, Where: 友人の家, Who: 私とペット, What: ペットと仲良くなった, Why: 該当なし, How: 該当なし
+
+When: 電話中, Where: 該当なし, Who: 私, What: 電話を切ろうとして間違えて他のボタンを押してしまった, Why: 該当なし, How: 該当なし
+
+When: 料理中, Where: 台所, Who: 私, What: 料理が焦げてしまった, Why: 火加減を間違えたため, How: 該当なし
+
+When: 散歩中, Where: 該当なし, Who: 私, What: 綺麗な花を見つけた, Why: 該当なし, How: 該当なし
+
+When: 電車内, Where: 電車内, Who: 私, What: 好きな曲が電車内で流れていた, Why: 該当なし, How: 該当なし
+
+When: 駅, Where: 駅, Who: 私, What: 電車の遅延に巻き込まれた, Why: 人身事故が発生したため, How: 該当なし
+
+When: 道端, Where: 道端, Who: 私, What: 芸能人に似ている人を見かけた, Why: 該当なし, How: 該当なし
+
+When: 部屋, Where: 該当なし, Who: 私, What: 鍵を閉めずに外出していたことに気づいた, Why: 慌てていたため, How: 該当なし
+
+When: 友人との会話, Where: 該当なし, Who: 私と友人, What: 友人と将来の夢について語り合った, Why: 該当なし, How: LINEで
+
+When: カフェ, Where: カフェ, Who: 私, What: Wi-Fiのパスワードを間違えて入力してしまった, Why: パスワードを覚えていなかったため, How: 該当なし
+
+When: 電車から降りた直後, Where: ホーム, Who: 私, What: 電車に忘れ物をしたことに気づいた, Why: 降りる際に慌てていたため, How: 駅員に問い合わせた
+
+When: 雨の日, Where: 駅, Who: 私, What: 駅で雨宿りをした, Why: 雨が強かったため, How: 該当なし
+
+When: カラオケ, Where: カラオケ, Who: 私と友人, What: 友人とデュエットした, Why: 該当なし, How: 該当なし
+
+When: 旅行中, Where: 観光地, Who: 私, What: 現地の人と仲良くなった, Why: 該当なし, How: 該当なし
+
+When: 家, Where: 該当なし, Who: 私, What: 新しいスマホを買った, Why: 今のスマホが壊れたため, How: インターネットで
+
+When: 散歩中, Where: 公園, Who: 私, What: 犬の散歩をしている人を見かけた, Why: 該当なし, How: 該当なし
+
+When: 家, Where: 該当なし, Who: 私, What: 部屋の模様替えをした, Why: 気分転換をしたかったため, How: 該当なし
+
+When: カフェ, Where: カフェ, Who: 私, What: 隣の席の人の会話がうるさくて集中できなかった, Why: 隣の席の人が大声で話していたため, How: 該当なし
+
+When: 誕生日, Where: レストラン, Who: 私と家族, What: 家族に誕生日を祝ってもらった, Why: 誕生日だったため, How: 該当なし
+
+When: 電車から降りた直後, Where: 駅, Who: 私, What: 他の人の傘と間違えて持って帰ってしまった, Why: 傘が似ていたため, How: 該当なし
+
+When: 朝, Where: 家, Who: 私, What: 大きな地震で目が覚めた, Why: 地震が発生したため, How: 該当なし
+
+When: 映画館, Where: 映画館, Who: 私, What: 映画の予告編を見て、観たい映画が増えた, Why: 予告編がおもしろそうだったため, How: 該当なし
+
+When: 仕事中, Where: オフィス, Who: 私と上司, What: 上司に褒められた, Why: 仕事で良い成果を出したため, How: 該当なし
+
+When: 家, Where: 該当なし, Who: 私, What: 昔のアルバムを見て懐かしい気持ちになった, Why: 思い出が詰まっていたため, How: 該当なし
+
+When: 休日, Where: 家, Who: 私, What: 録り溜めていたドラマを一気見した, Why: 時間があったため, How: 該当なし
+
+When: 旅行の帰り, Where: 空港, Who: 私, What: 飛行機が欠航になった, Why: 天候不良のため, How: 該当なし
+
+When: バス, Where: バス, Who: 私, What: 降りるバス停を間違えてしまった, Why: ぼーっとしていたため, How: 該当なし
+
+When: 週末, Where: 家, Who: 私, What: テレビのリモコンが見つからなかった, Why: いつもと違う場所に置いていたため, How: 該当なし
+
+When: 旅行中, Where: 空港, Who: 私と小学校の時の友人, What: 小学校の時の友人と偶然再会した, Why: 該当なし, How: 該当なし
+
+When: 初めてボウリングをした時, Where: ボーリング場, Who: 私, What: ガターばかりだった, Why: ボウリングが下手だったため, How: 該当なし
+
+When: 雨上がり, Where: 公園, Who: 私, What: 虹を見た, Why: 雨上がりだったため, How: 該当なし
+
+When: お気に入りの服を着た日, Where: レストラン, Who: 私, What: ワインをこぼされてしまった, Why: 隣のテーブルの人がぶつかってきたため, How: 該当なし
+
+When: 朝, Where: 電車, Who: 私, What: 電車の中で貧血を起こしそうになった, Why: 寝不足だったため, How: 該当なし
+
+When: スーパー, Where: スーパー, Who: 私, What: 試食をたくさん食べた, Why: お腹が空いていたため, How: 該当なし
+
+When: カフェ, Where: カフェ, Who: 私と友人, What: 隣のテーブルの人の話が気になってしまった, Why: 声が大きかったため, How: 該当なし
+
+When: 旅行中, Where: 屋台, Who: 私, What: 激辛料理を食べてお腹を壊した, Why: 辛さに耐えられなかったため, How: 該当なし
+
+When: 昼休み, Where: 職場, Who: 私, What: くしゃみをした拍子にコーヒーをこぼした, Why: 該当なし, How: 該当なし
+
+When: 正月, Where: 親戚の家, Who: 私と親戚, What: 親戚にお年玉をもらった, Why: 該当なし, How: 該当なし
+
+When: 仕事帰り, Where: 本屋, Who: 私, What: 立ち読みばかりして何も買わずに店を出た, Why: 買いたい本が高かったため, How: 該当なし
+
+When: 電話中, Where: 家, Who: 私, What: 電話を切った後に言い忘れたことに気づいた, Why: 該当なし, How: 該当なし
+
+When: 週末, Where: 該当なし, Who: 私と友人, What: 友人と映画を見に行った, Why: 該当なし, How: 該当なし
+
+When: 冬の朝, Where: 家, Who: 私, What: ストーブをつけたら停電した, Why: 電力消費量が多すぎたため, How: 該当なし
+
+When: 職場, Where: 職場, Who: 私と上司, What: 上司に怒られた, Why: 仕事でミスをしたため, How: 該当なし
+
+When: 結婚式の前日, Where: ホテル, Who: 私, What: 結婚式の準備を手伝った, Why: 友人から頼まれたため, How: 該当なし
+
+When: 夜, Where: 夜道, Who: 私, What: 野良猫に遭遇した, Why: 該当なし, How: 該当なし
+
+When: 初めて自炊をした時, Where: アパート, Who: 私, What: 火災報知器を鳴らしてしまった, Why: 料理を焦がしてしまったため, How: 該当なし
+
+When: バス停, Where: バス停, Who: 私, What: バスを一本逃した, Why: バス停に着くのが遅れたため, How: 該当なし
+
+When: 図書館, Where: 図書館, Who: 私, What: 勉強に集中できた, Why: 静かで集中しやすい環境だったため, How: 該当なし
+
+When: 勉強中, Where: 家, Who: 私, What: 難しい問題が解けた, Why: 考え抜いたため, How: 該当なし
+
+When: 友人とゲーム, Where: 友人宅, Who: 私と友人, What: ゲームで高得点を出した, Why: 上手くプレイできたため, How: 該当なし
+
+When: 散歩中, Where: 道, Who: 私, What: 知らない人に声をかけられた, Why: 該当なし, How: 該当なし
+
+When: 朝, Where: 家, Who: 私, What: イヤリングを落として見つからなかった, Why: 該当なし, How: 該当なし
+
+When: 料理中, Where: 台所, Who: 私, What: 指を切ってしまった, Why: 包丁の使い方を間違えたため, How: 該当なし
+
+When: 買い物中, Where: デパート, Who: 私と友人, What: 友人に似合う服を見つけた, Why: 該当なし, How: 該当なし
+
+When: 旅行先, Where: 観光地, Who: 私, What: 綺麗な景色を写真に収めた, Why: 該当なし, How: カメラで
+
+When: 朝, Where: 家, Who: 私, What: 気持ちよく目覚めた, Why: よく眠れたため, How: 該当なし
+
+When: 外出中, Where: 駅, Who: 私, What: 知らない人にぶつかって謝られた, Why: 人混みだったため, How: 該当なし
+
+When: ラーメン屋, Where: ラーメン屋, Who: 私, What: ラーメンのスープを全部飲んでしまった, Why: ラーメンが美味しかったため, How: 該当なし
+
+When: 帰宅途中, Where: 駅, Who: 私, What: 人身事故の影響で電車が遅延していた, Why: 該当なし, How: 該当なし
+
+When: 友人とランチ, Where: レストラン, Who: 私と友人, What: 楽しい時間を過ごした, Why: 久しぶりに会ったため, How: 該当なし
+
+When: 電車内, Where: 電車内, Who: 私, What: 隣に座っている人が咳をしていた, Why: 該当なし, How: 該当なし
+
+When: 仕事中, Where: 会社, Who: 私, What: 大事な書類を紛失した, Why: 整理整頓ができていなかったため, How: 該当なし
+
+When: 誕生日, Where: 家, Who: 私, What: 家族からプレゼントをもらった, Why: 誕生日だったため, How: 該当なし
+
+When: 暇な時間, Where: 家, Who: 私, What: 日記を書いた, Why: 楽しかった出来事を記録したかったため, How: ペンで
+
+When: 料理中, Where: 台所, Who: 私, What: 包丁で指を切った, Why: 気を抜いていたため, How: 該当なし
+
+When: 週末, Where: 街中, Who: 私と高校時代の友人, What: 高校時代の友人と偶然再会した, Why: 該当なし, How: 該当なし
+
