@@ -53,15 +53,7 @@ def evaluate(df, threshold, topic):
         true_label = first_row['Label'] and df['Label'].iloc[i]
         predicted_label = similarity >= threshold
 
-        results.append([
-            topic, 
-            {col: first_row[col] for col in ['When', 'Where', 'Who', 'What', 'Why', 'How']},
-            {col: df.iloc[i][col] for col in ['When', 'Where', 'Who', 'What', 'Why', 'How']},
-            similarity, 
-            threshold, 
-            true_label, 
-            predicted_label
-        ])
+        results.append([topic, first_row['What'], df['What'].iloc[i], similarity, threshold, true_label, predicted_label])
 
         if predicted_label and true_label:
             tp += 1
